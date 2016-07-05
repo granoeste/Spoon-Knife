@@ -26,4 +26,4 @@ WEBアプリケーション->WEBアプリケーション: データベース\n�
 WEBアプリケーション-->>ユーザー: ログイン認証完了・セッション開始
 ```
 
-![overview image](https://github.com/granoeste/Spoon-Knife/materials/DevelopmentFlow.png?raw=true)
+![overview image](https://raw.githubusercontent.com/granoeste/Spoon-Knife/markdown/materials/DevelopmentFlow.png)
